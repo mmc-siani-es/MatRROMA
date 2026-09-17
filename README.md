@@ -24,7 +24,7 @@ If you use MultiFEBE please cite the following reference in your work (books, ar
 - Function to visualize the identified mode shapes.
 - Merges data from multiple setups using the PoSER identification method.
 
-For more details, please check the [User Manual](ruta_al_manual.pdf). You can also find a complete identification example in the [Examples section]([ruta_al_ejemplo]([https://github.com/mmc-siani-es/MatRROMA/tree/main/docs/examples/Ex1_pedestrian_crossing_over_a_highway)](https://github.com/mmc-siani-es/MatRROMA/tree/main/docs/examples).
+For more details, please check the [User Manual](ruta_al_manual.pdf). You can also find a complete identification example in the [Examples section](https://github.com/mmc-siani-es/MatRROMA/tree/main/docs/examples).
 
 ## License:
 
