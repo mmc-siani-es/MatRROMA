@@ -24,6 +24,8 @@ If you use MultiFEBE please cite the following reference in your work (books, ar
 - Function to visualize the identified mode shapes.
 - Merges data from multiple setups using the PoSER identification method.
 
+For more details, please check the [User Manual](ruta_al_manual.pdf). You can also find a complete identification example in the [Examples section]([ruta_al_ejemplo]([https://github.com/mmc-siani-es/MatRROMA/tree/main/docs/examples/Ex1_pedestrian_crossing_over_a_highway)](https://github.com/mmc-siani-es/MatRROMA/tree/main/docs/examples).
+
 ## License:
 
 GPLv3, please see the [LICENSE](./LICENSE) file for details.
@@ -32,21 +34,7 @@ GPLv3, please see the [LICENSE](./LICENSE) file for details.
 
 * **PID2023-151635OB-I00**, funded by the Ministerio de Ciencia, Innovación y Universidades and Agencia Estatal de Investigación (MICIU/AEI/10.13039/501100011033) of Spain, and FEDER/EU.
   
-  <p align="center">
-    <!-- Reemplaza el enlace de abajo con la ruta real de tu imagen (ej. ./images/logo1.png) -->
-    <img src="URL_DEL_LOGO_MICIU_AEI.png" alt="Logo MICIU AEI FEDER" width="400">
-  </p>
-
 * **EIS 2021 04**, partially supported by ACIISI, Spain–Gobierno de Canarias and European ERDF Funds.
   
-  <p align="center">
-    <!-- Reemplaza el enlace de abajo con la ruta real de tu imagen -->
-    <img src="URL_DEL_LOGO_CANARIAS_ERDF.png" alt="Logo Canarias ACIISI ERDF" width="500">
-  </p>
-
 * **FPI2024010103**, research fellowship awarded to Samuel González-Jiménez from the Program of predoctoral fellowships from the Consejería de Universidades, Ciencia e Innovación y Cultura (Agencia Canaria de la Investigación, Innovación y Sociedad de la Información), Spain of the Gobierno de Canarias and Fondo Social Europeo Plus.
   
-  <p align="center">
-    <!-- Reemplaza el enlace de abajo con la ruta real de tu imagen -->
-    <img src="URL_DEL_LOGO_FPI_CANARIAS.png" alt="Logo FSE Plus Gobierno de Canarias" width="500">
-  </p>
