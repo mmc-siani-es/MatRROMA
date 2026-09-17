@@ -21,8 +21,8 @@ If you use MultiFEBE please cite the following reference in your work (books, ar
 3. **Data Export:** Once the representative poles are selected, the tool asks the user to save those parameters along with other variables that help in the interpretation of the results.
 
 **Additional Features:**
-- Includes functions to visualize the identified mode shapes.
-- Capable of merging multi-setup identification data in a PoSER configuration.
+- Function to visualize the identified mode shapes.
+- Merges data from multiple setups using the PoSER identification method.
 
 ## License:
 
