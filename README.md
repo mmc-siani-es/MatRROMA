@@ -20,7 +20,7 @@ This software performs modal identification using either single-setup (simultane
 - Function to visualize the identified mode shapes.
 - Merges data from multiple setups using the PoSER identification method.
 
-For more details, please check the [User Manual](ruta_al_manual.pdf). You can also find a complete identification example in the [Examples section](https://github.com/mmc-siani-es/MatRROMA/tree/main/docs/examples).
+For more details, please check the [User Manual](ruta_al_manual.pdf). You can also find a complete identification example in the [Examples section](./docs/examples).
 
 ## License:
 
@@ -29,8 +29,12 @@ GPLv3, please see the [LICENSE](./LICENSE) file for details.
 ## Financing:
 
 * **PID2023-151635OB-I00**, funded by the Ministerio de Ciencia, Innovación y Universidades and Agencia Estatal de Investigación (MICIU/AEI/10.13039/501100011033) of Spain, and FEDER/EU.
+
+  <br>
+  <img src="./docs/img/MICIU+AEI.jpg" width="500">
   
-* **EIS 2021 04**, partially supported by ACIISI, Spain–Gobierno de Canarias and European ERDF Funds.
   
 * **FPI2024010103**, research fellowship awarded to Samuel González-Jiménez from the Program of predoctoral fellowships from the Consejería de Universidades, Ciencia e Innovación y Cultura (Agencia Canaria de la Investigación, Innovación y Sociedad de la Información), Spain of the Gobierno de Canarias and Fondo Social Europeo Plus.
-  
+
+<br>
+<img src="./docs/img/Logo_ACIISI.jpg" width="500">
