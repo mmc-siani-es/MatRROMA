@@ -30,11 +30,14 @@ GPLv3, please see the [LICENSE](./LICENSE) file for details.
 
 * **PID2023-151635OB-I00**, funded by the Ministerio de Ciencia, Innovación y Universidades and Agencia Estatal de Investigación (MICIU/AEI/10.13039/501100011033) of Spain, and FEDER/EU.
 
-  <br>
-  <img src="./docs/img/MICIU+AEI.jpg" width="500">
+  <div align="center">
+   <img src="./docs/img/MICIU+AEI.jpg" width="300">
+  </div>
   
   
 * **FPI2024010103**, research fellowship awarded to Samuel González-Jiménez from the Program of predoctoral fellowships from the Consejería de Universidades, Ciencia e Innovación y Cultura (Agencia Canaria de la Investigación, Innovación y Sociedad de la Información), Spain of the Gobierno de Canarias and Fondo Social Europeo Plus.
 
-<br>
-<img src="./docs/img/Logo_ACIISI.jpg" width="500">
+  <div align="center">
+   <img src="./docs/img/Logo_ACIISI.jpg" width="300">
+  </div>
+
