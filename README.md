@@ -23,7 +23,7 @@ Samuel González-Jiménez, Luis Alberto Padrón, Guillermo Manuel Álamo, Jacob 
 - Function to visualize the identified mode shapes.
 - Merges data from multiple setups using the PoSER identification method.
 
-For more details, please check the [User Manual](ruta_al_manual.pdf). You can also find a complete identification example in the [Examples section](./docs/examples).
+For more details, please check the [User Manual](./docs/Manual.pdf). You can also find a complete identification example in the [Examples section](./docs/examples).
 
 ## License:
 
