@@ -1,4 +1,4 @@
-function plot_MS(MSname,coordsname,conectname)
+function matrroma_plotms(MSname,coordsname,conectname)
 
 %%% Load Data
 coords=readmatrix(coordsname); % The coordinates data must be introduced in [ID, X, Y, Z] order
