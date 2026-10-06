@@ -1,7 +1,21 @@
-function poser(filenames)
+function matrroma_poser(filenames)
 
-%%%Function to merge different setups with the POSER approach (with reference
-% sensors)
+% =========================================================================
+ % POst-Separate Estimation Re-scaling (PoSER) algorithm.
+ % The scaling factor (alpha) for magnitude and phase matching is calculated 
+ % using the Least Squares (LS) solution between the local reference DOFs 
+ % and the noise-free optimal reference: alpha = (phi_local^H * phi_opt) / (phi_local^H * phi_local)
+ % 
+ % References:
+ % [1] E. Parloo (2003). "Application of Frequency-Domain System Identification 
+ %     Techniques in the Field of Operational Modal Analysis". Ph.D. Thesis, 
+ %     Vrije Universiteit Brussel (VUB), Belgium.
+ % [2] C. Rainieri, G. Fabbrocino (2014). "Operational Modal Analysis of 
+ %     Civil Engineering Structures", Springer. (Chapter on Data Merging).
+% =========================================================================
+
+%Pre-allocation of Dyn_par fields
+
 
 %Pre-allocation of Dyn_par fields
 
