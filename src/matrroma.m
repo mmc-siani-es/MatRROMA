@@ -1,4 +1,4 @@
-function main(filenames,q,sampling_rate,setref,method,max_order,varargin)
+function matrroma(filenames,q,sampling_rate,setref,method,max_order,varargin)
 
 %%%Master function that preprocesses the data and calls the other functions involved in the code
 %%%The code requires the input signals to be arranged in rows
