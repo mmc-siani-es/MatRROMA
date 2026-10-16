@@ -1,11 +1,9 @@
 MatRROMA is a MATLAB tool designed for the identification of dynamic properties of structures using the System Subspace Identification algorithm. It is cross-platform and runs on any operating system supported by MATLAB, including Windows, macOS, and GNU/Linux 64-bit.
 
 
-This software performs modal identification using either single-setup (simultaneous) or multi-setup (fragmented) measurements. Regarding to multi-setup configuratins ,the software allows identification if there is at least one measurement point common to all sets (Reference-Based SSI) and also if there is at least one sensor common to two or more sets throughout the entire concatenation of sets (Roving-References SSI).  If you use MatRROMA please cite the following reference in your work (books, articles, reports, etc.):
+This software performs modal identification using either single-setup or multi-setup measurements. For multi-setup measurements, the software supports reference-based (using a common reference sensor across all sets) and roving-reference (sharing a common sensor between adjacent sets) configurations. If you use MatRROMA please cite the following reference in your work (books, articles, reports, etc.):
 
 S. González-Jiménez, L. A. Padrón, G. M. Álamo, J. D. R. Bordón. Operational Modal Analysis from multi-setup measurements with roving references and Stochastic Subspace Identification, _Engineering Structures_ 367, 123529, 2026. [Link](https://www.sciencedirect.com/science/article/pii/S0141029626014434).
-
-
 
 
 ## How to use?
