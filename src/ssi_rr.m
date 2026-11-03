@@ -84,7 +84,7 @@ ord=Sets(alld);
 
 %%% Hankel matrix for UPC method
 if strcmpi(method,"UPC")
-    [y_p,y_m]=Hankel(data,p,q,ref_vect_loc,alld);
+    [y_p,y_m]=hankel(data,p,q,ref_vect_loc,alld);
     [~,L]=qr([y_m;y_p]',"econ");
     L=L';
     H_rr=L(rref*q+1:end,1:rref*q);
