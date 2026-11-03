@@ -48,7 +48,7 @@ for ns=1:Nsets
 
         %%% Method COV-DATA. Matrix construction
     elseif strcmpi(method,"COVD")
-        [y_p,y_m]=Hankel(data{ns},p,q,ref_vect_loc,alld);
+        [y_p,y_m]=hankel(data{ns},p,q,ref_vect_loc,alld);
         H{ns}=(y_p*y_m');
     end
     %==========================================================
